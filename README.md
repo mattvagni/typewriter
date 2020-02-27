@@ -6,4 +6,4 @@
   <br>
 </p>
 
-This is a custom fork to test some changes. **Do not use this**
+This is a custom fork to test some changes. **Do not use this.** It is temporary and will be deleted.
